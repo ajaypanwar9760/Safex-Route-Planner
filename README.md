@@ -18,7 +18,7 @@ A modern, full-stack route planning application that prioritizes **user safety**
 
 ##  Technology Stack
 
-*   **Frontend:** Vanilla JavaScript, HTML5, CSS3 *(No heavy frameworks!)*
+*   **Frontend:** Vanilla JavaScript, HTML5, CSS3
 *   **Mapping:** Leaflet.js
 *   **Backend:** Node.js, Express
 *   **Routing API:** OpenRouteService (ORS) v2
